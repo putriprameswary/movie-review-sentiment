@@ -18,9 +18,9 @@
 
 ## ✨ What Is This?
 
-**Movie Mood Meter** is a end-to-end sentiment analysis app — from model training to a live web interface. Paste any movie review, and the AI will tell you whether the vibe is 😊 **Positive** or 😠 **Negative**, along with a confidence score.
+**Movie Mood Meter** is a end-to-end sentiment analysis app from model training to a live web interface. Paste any movie review, and the AI will tell you whether the vibe is 😊 **Positive** or 😠 **Negative**, along with a confidence score.
 
-Built with real NLP, not vibes. Trained on **10,000 real IMDB reviews** (sampled from 50K) using TF-IDF + Logistic Regression.
+Built with real NLP, and trained on **10,000 real IMDB reviews** (sampled from 50K) using TF-IDF + Logistic Regression.
 
 ---
 
@@ -57,7 +57,7 @@ User Input → Text Cleaning → TF-IDF Vectorization → Logistic Regression �
 - 📊 Confidence score with visual progress bar
 - 🧹 Auto text preprocessing pipeline
 - 💡 Example reviews to try instantly
-- 🎨 Clean, minimal Apple-inspired UI
+- 🎨 Clean and aesthetic
 
 ---
 
@@ -115,7 +115,7 @@ movie-mood-meter/
 
 ## 📌 Notes
 
-This project is intentionally simple — the focus is on building a clean, working end-to-end NLP pipeline and making it accessible through a friendly UI. Great starting point for learning applied NLP!
+This project is intentionally simple. The focus is on building a clean, working end-to-end NLP pipeline and making it accessible through a friendly UI. Great starting point for learning applied NLP!
 
 ---
 
