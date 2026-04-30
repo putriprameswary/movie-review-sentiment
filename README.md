@@ -39,6 +39,13 @@ Here's the dataset from kaggle: https://www.kaggle.com/datasets/lakshmi25npathi/
 * Clean and minimal user interface
 
 ---
+## 🔬 Model Training
+
+The sentiment classification model was trained using Google Colab, including data preprocessing, feature extraction (TF-IDF), and model training.
+
+👉 Notebook: https://colab.research.google.com/drive/1vg7bfwsYSn3cBH_LaX4CIXJSgr4KugJ3?usp=sharing
+
+---
 
 ## ▶️ How to Run Locally
 
