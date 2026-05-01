@@ -80,8 +80,8 @@ The model was trained in Google Colab. The pipeline covers:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/movie-mood-meter.git
-cd movie-mood-meter
+git clone https://github.com/putriprameswary/movie-review-sentiment.git
+cd movie-review-sentiment
 
 # 2. Install dependencies
 pip install -r requirements.txt
