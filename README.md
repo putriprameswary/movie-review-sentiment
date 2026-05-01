@@ -8,7 +8,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-34C759?style=for-the-badge)
 
-**An NLP-powered web app that detects whether your movie review is positive or negative — instantly.**
+**An NLP-powered web app that detects whether your movie review is positive or negative instantly.**
 
 [🚀 Try Live Demo](https://movie-mood-meter.streamlit.app) · [📓 View Notebook](https://colab.research.google.com/drive/1vg7bfwsYSn3cBH_LaX4CIXJSgr4KugJ3?usp=sharing) · [📦 Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data)
 
