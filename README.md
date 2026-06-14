@@ -30,10 +30,10 @@ Built with real NLP, and trained on **10,000 real IMDB reviews** (sampled from 5
 User Input → Text Cleaning → TF-IDF Vectorization → Logistic Regression → Sentiment + Confidence Score
 ```
 
-1. **Preprocessing** — lowercasing, HTML tag removal, punctuation stripping
-2. **Feature Extraction** — TF-IDF Vectorizer (top 5,000 features)
-3. **Classification** — Logistic Regression model
-4. **Output** — Positive / Negative label + confidence percentage
+1. **Preprocessing:** lowercasing, HTML tag removal, punctuation stripping
+2. **Feature Extraction:** TF-IDF Vectorizer (top 5,000 features)
+3. **Classification:** Logistic Regression model
+4. **Output:** Positive / Negative label + confidence percentage
 
 ---
 
